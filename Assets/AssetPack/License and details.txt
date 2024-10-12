@@ -1,0 +1,46 @@
+FANTASY RPG - Interior pack (by Franuka) v2.1
+-------------------------
+Thank you for getting this asset pack!
+Make sure to check my other Fantasy RPG assets to complement this one (https://franuka.itch.io/)
+
+Free updates will be uploaded periodically to this pack, so stay tuned for more content.
+
+TERMS OF USE:
+------------
+* You may use this pack on both commercial AND non-commercial projects, just remember to add a link to my itch page and/or Twitter, it helps a lot :) (Links below)
+* You can edit this pack, but you can not redistribute it as is or resell it elsewhere. Feel free to send me a message regarding specific cases. Thanks!
+---
+Included are tilesets in three sizes: 100% (16x16px), 200% (32x32px) and 300% (48x48px), in .png format, transparent background. You should be able to recreate anything you see on the example images (characters not included).
+---
+All assets were created from scratch by me.
+* Contact: franukai@gmail.com
+* Instagram: https://www.instagram.com/franuka.art/
+* Twitter: https://twitter.com/franuka_art
+* Other projects and games on Itch.io: https://franuka.itch.io/
+
+If you like what I do, consider supporting me by buying my packs, sharing, or sending your feedback.
+Have a good time making your games, and send me a link if you make something cool, I'd love to check your projects! :)
+
+CHANGELOG
+----------
+v1.1: Added a few more floors, an extra wooden door, orange brick wall, and grey stone top wall, doors and stairs.
+
+v1.2: Added candle animation, and 3 extra floor tiles.
+
+v1.3: Kitchen furniture and objects (Cabinets, benches, cupboards, oven, sink, wine storage, extra windows, apple and water barrels, beer/wine barrel, broom, flour sack, woodpile, beer mugs, mortar, cutting boards, plates, hanging knives, herbs, fishes, carrot, cauldrons, pans and pots)
+
+v1.4: Added animated torches, lamp, candelabrums, fireplace, and a bunch of decorated furniture.
+
+v1.5: Bath expansion. Added towels, rugs, sinks, mirror, basins, buckets, bathtubes, letrine and water puddles.
+
+v1.6: Workshop expansion. Added worktable, furnace (animated), boxes, anvil, tools, planks, metal ingots, bellows, metal ores, grinding stone, and tileable pipes.
+
+v1.7: Added color variations for a lot of furniture. Added vertical tables, tables with tablecloth, big tables, wooden chairs, armchairs, rugs.
+
+v1.8: School expansion. Added a small desk, long desk and variations. Pencil, blackboards, bell, locker, open books, stack of books and a couple floor tile variations.
+
+v1.9: Bedroom expansion. Added a star wall, bricks floor, bay windows, wide windows, curtains, moon rugs, clocks, shelf with books, coat racks, mirrors, full size bed and colour variations.
+
+v2.0: Alchemy lab expansion. Added new brick walls, tile and marble floors, tall windows, animated cauldrons, potions, spell books, poultices, potion shelves, candle on skull, chemistry glasses, brain/eye on jars, alchemy table, stasis tanks, magic lanterns, alchemy cabinet, anatomy posters, crystals, enchantment tables, magic circles, book stands, herbology tables, hourglass, microscope.
+
+v2.1: Music expansion. Added new floors and wall tops, side doors, musical instruments, music stand, sheets, stools, vinyl collections, animated director, animated gramophone, and a theatre stage.

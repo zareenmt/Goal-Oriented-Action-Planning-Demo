@@ -1,7 +1,7 @@
-GOAP System Demo
+**GOAP System Demo**
 This project demonstrates an implementation of Goal Oriented Action Planning (GOAP) for controlling Non-Player Characters (NPCs) in a game environment. GOAP enables NPCs to dynamically create action plans to achieve specified goals based on current world states.
 
-System Architecture
+**System Architecture**
 Finite State Machine
 The GOAP system operates within a Finite State Machine (FSM) with three primary states:
 

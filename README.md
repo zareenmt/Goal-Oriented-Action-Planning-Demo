@@ -38,7 +38,7 @@ This script serves as the brain of the NPC, managing:
 
 An abstract class that defines the structure that all actions must follow in the system. Individual actions inherit from this class and implement their specific logic and requirements.
 
-Example of the system in action
+**Example of the system in action**
 
 https://github.com/user-attachments/assets/91b3a49e-c900-4f64-900c-ad565daf9e7c
 

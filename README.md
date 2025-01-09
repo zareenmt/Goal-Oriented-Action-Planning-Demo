@@ -1,4 +1,4 @@
-**#Introduction#**
+**<h1 align = "left">Introduction</h1>**
 
 This project demonstrates an implementation of Goal Oriented Action Planning (GOAP) for controlling Non-Player Characters (NPCs) in a game environment. GOAP enables NPCs to dynamically create action plans to achieve specified goals based on current world states.
 

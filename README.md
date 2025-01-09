@@ -1,7 +1,9 @@
 **GOAP System Demo**
+
 This project demonstrates an implementation of Goal Oriented Action Planning (GOAP) for controlling Non-Player Characters (NPCs) in a game environment. GOAP enables NPCs to dynamically create action plans to achieve specified goals based on current world states.
 
 **System Architecture**
+
 Finite State Machine
 The GOAP system operates within a Finite State Machine (FSM) with three primary states:
 
@@ -9,7 +11,8 @@ Idle State: The system evaluates the current world state and generates an action
 MoveTo State: Activated when an action requires the NPC to be within range of a target
 PerformAction State: Executes the planned action once the NPC is within the required range
 
-Core Components:
+**Core Components**
+
 IGoap Interface
 NPCs implement the IGoap interface to receive and process world state data. This information is crucial for the planning system to make informed decisions about possible actions and their outcomes.
 Planner Class

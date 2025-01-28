@@ -2,6 +2,10 @@
 
 This project demonstrates an implementation of Goal Oriented Action Planning (GOAP) for controlling Non-Player Characters (NPCs) in a game environment. GOAP enables NPCs to dynamically create action plans to achieve specified goals based on current world states.
 
+**Example of the system in action**
+
+https://github.com/user-attachments/assets/91b3a49e-c900-4f64-900c-ad565daf9e7c
+
 **<h2 align = "left">System Architecture</h2>**
 
 **<h3 align = "left">Finite State Machine</h3>**
@@ -38,7 +42,5 @@ This script serves as the brain of the NPC, managing:
 
 An abstract class that defines the structure that all actions must follow in the system. Individual actions inherit from this class and implement their specific logic and requirements.
 
-**Example of the system in action**
 
-https://github.com/user-attachments/assets/91b3a49e-c900-4f64-900c-ad565daf9e7c
 
